@@ -160,7 +160,8 @@ footer p {
   form select,
   form input {
   margin-bottom: 20px;
-  width: 180px;
+  font-size:15px;
+  width: 120px;
   margin-left: 0;
   }
 
